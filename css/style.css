@@ -294,7 +294,7 @@ p {
 .fh5co-main-nav .fh5co-menu-1,
 .fh5co-main-nav .fh5co-menu-2,
 .fh5co-main-nav .fh5co-logo {
-  vertical-align: middle;
+  vertical-align: top;
   float: left;
   line-height: 0;
 }
