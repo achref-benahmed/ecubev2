@@ -555,7 +555,7 @@ p {
   width: 64px;
   position: absolute;
   content: "";
-  background: url(../images/0103-served-plate_64.png) no-repeat;
+ 
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -776,7 +776,7 @@ p {
   width: 64px;
   position: absolute;
   content: "";
-  background: url(../images/0401-vegan.png) no-repeat;
+  
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -807,7 +807,7 @@ p {
   padding-left: 50px;
 }
 #fh5co-menus .fh5co-food-menu h2.fh5co-drinks:before {
-  background: url(../images/0301-pina-colada.png) no-repeat;
+  
   content: "";
   position: absolute;
   top: -20px;
@@ -819,7 +819,7 @@ p {
   padding-left: 80px;
 }
 #fh5co-menus .fh5co-food-menu h2.fh5co-dishes:before {
-  background: url(../images/0302-steak.png) no-repeat;
+  
   content: "";
   position: absolute;
   top: 0;
@@ -912,7 +912,7 @@ p {
   width: 49px;
   position: absolute;
   content: "";
-  background: url(../images/0402-chef.png) no-repeat;
+  
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -1006,7 +1006,7 @@ p {
   width: 61px;
   position: absolute;
   content: "";
-  background: url(../images/0203-coffee-love.png) no-repeat;
+  
   top: 0;
   left: 50%;
   margin-top: -50px;
