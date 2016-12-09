@@ -1,0 +1,13 @@
+{
+  "config": {
+    "default": "en"
+  },
+  "language": {
+    "en": {
+      ".ml-Burning_Passion_for_the_Sustainable_Innovation": "Hello this perfect"
+    },
+    "fr": {
+      ".ml-Burning_Passion_for_the_Sustainable_Innovation": "Hello 'est genial"
+    }
+  }
+}
