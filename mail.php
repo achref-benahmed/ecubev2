@@ -11,6 +11,7 @@ $mail->Host = 'smtp.gmail.com'; // "ssl://smtp.gmail.com" didn't worked
 //$mail->Port = 465;
 //$mail->SMTPSecure = 'ssl';
 // or try these settings (worked on XAMPP and WAMP):
+//
  $mail->Port = 587;
  $mail->SMTPSecure = 'tls';
  
