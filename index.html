@@ -397,18 +397,20 @@ Advantages:<br>
 					</div>
 				</div>
 				<div class="col-md-6 to-animate-2">
+				<form action="mail.php" id="contact-form" name="contact-form" method="post" enctype="application/x-www-form-urlencoded">
 						<h3>Contact Form</h3>
 						<div class="form-group ">
 							<label for="name" class="sr-only">Name</label>
-							<input id="name" class="form-control" placeholder="Name" type="text">
+							<input  name="name" class="form-control" placeholder="Name" type="text">
 						</div>
+				
 						<div class="form-group ">
 							<label for="email" class="sr-only">Email</label>
-							<input id="email" class="form-control" placeholder="Email" type="email">
+							<input id="email"  name="email" class="form-control" placeholder="Email" type="email">
 						</div>
 						<div class="form-group">
 							<label for="occation" class="sr-only">Contact Reson</label>
-							<select class="form-control" id="occation">
+							<select class="form-control" id="occation" name="occation">
 								<option>Information</option>
 							  <option>Selling</option>
 							  <option>Become a Client</option>
@@ -417,18 +419,19 @@ Advantages:<br>
 						</div>
 						<div class="form-group ">
 							<label for="date" class="sr-only">Date</label>
-							<input id="date" class="form-control" placeholder="Date &amp; Time" type="text">
+							<input id="date" name="date" class="form-control" placeholder="Date &amp; Time" type="text">
 						</div>
+                      
 
-
-							
+						
 						<div class="form-group ">
 							<label for="message" class="sr-only">Message</label>
-							<textarea name="" id="message" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
+							<textarea  id="message" name="message" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
 						</div>
 						<div class="form-group ">
 							<input class="btn btn-primary" value="Send Message" type="submit">
 						</div>
+						</form>
 						</div>
 						
 				
