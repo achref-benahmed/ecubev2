@@ -10,13 +10,9 @@
       ".ml-gallery":"Gallery",
       ".ml-products":"Products",
       ".ml-about": "About us",
-      
       ".ml-welcome": "Welcome to 3A Development Group SA. Our company is part of Giuseppe Zeno Family Group.",
       ".ml-thanks" : "Thanks to 30 Years for experience of our team of managers We are active in many different area of development.",
-      ".ml-app" : "Applying the experience, the passion and the continuous search for improvement of each team member, 3A Development Group SA manages to meet market needs by offering from engineering to the complete plant be it new or regenerated.",
-      
-      
-      ".ml-only" : "Only when a good idea meets the right application becomes an excellent idea."
+      ".ml-app" : "Applying the experience, the passion and the continuous search for improvement of each team member, 3A Development Group SA manages to meet market needs by offering from engineering to the complete plant be it new or regenerated."
     },
     "fr": {
       ".ml-Burning_Passion_for_the_Sustainable_Innovation": "Hello 'est genial",
@@ -25,13 +21,9 @@
       ".ml-gallery":"Galerie",
       ".ml-products": "Produits",
       ".ml-about": "à propos de nous",
-  
       ".ml-welcome": "Bienvenu à 3A Development Group SA. Notre entreprise fait partie de Giuseppe Zeno Family Group",
       ".ml-thanks" : "Grace à 30 ans d'expérience de notre équipe de managers, nous sommes actifs dans de nombreux domaines différents de développement.",
-      ".ml-app" : "Appliquant l'expérience, la passion et la recherche continue d'amélioration de chaque membre de l'équipe, 3A Development Group SA parvient à répondre aux besoins du marché en proposant de l'ingénierie à l'usine complète qu'elle soit nouvelle ou régénérée.",
-      
-      
-     
+      ".ml-app" : "Appliquant l'expérience, la passion et la recherche continue d'amélioration de chaque membre de l'équipe, 3A Development Group SA parvient à répondre aux besoins du marché en proposant de l'ingénierie à l'usine complète qu'elle soit nouvelle ou régénérée."
     }
   }
 }
