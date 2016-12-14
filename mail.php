@@ -16,20 +16,20 @@ $mail->Host = 'smtp.gmail.com'; // "ssl://smtp.gmail.com" didn't worked
  $mail->SMTPSecure = 'tls';
  
  
-$mail->Username = "amina.mahdhaoui@esprit.tn";
-$mail->Password = "9145813amina";
+$mail->Username = "smthg here";
+$mail->Password = "smthg here";
  
 $mail->IsHTML(true); // if you are going to send HTML formatted emails
 $mail->CharSet = "utf-8";
 $mail->SingleTo = true; // if you want to send a same email to multiple users. multiple emails will be sent one-by-one.
  
-$mail->From = "amina.mahdhaoui@esprit.tn";
+$mail->From = $_POST["email"];
 
  if (isset($_POST["name"]))
 {
 	$mail->FromName = $_POST["name"];
 }
-$mail->addAddress($_POST["email"],"User 1");
+$mail->addAddress("mail here","User 1");
 $mail->Body ="";
 if (isset($_POST["message"]))
 {
