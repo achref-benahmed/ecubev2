@@ -39,10 +39,7 @@
       ".ml-cont" : "For more informations please don't hesitate to contact us.",
       ".ml-form" : "Contact Form",
       ".ml-name" : "Name",
-      ".ml-reason" : "Contact Reason",
-      ".ml-selling" : "Selling",
-      ".ml-client" : "Become a client",
-      ".ml-other" : "Other"
+      ".ml-reason" : "Contact Reason"
     },
     "fr": {
       ".ml-Burning_Passion_for_the_Sustainable_Innovation": "Hello 'est genial",
@@ -54,15 +51,14 @@
       ".ml-welcome": "Bienvenu à 3A Development Group SA. Notre entreprise fait partie de Giuseppe Zeno Family Group",
       ".ml-thanks" : "Grace à 30 ans d'expérience de notre équipe de managers, nous sommes actifs dans de nombreux domaines différents de développement.",
       ".ml-app" : "Appliquant l'expérience, la passion et la recherche continue d'amélioration de chaque membre de l'équipe, 3A Development Group SA parvient à répondre aux besoins du marché en proposant de l'ingénierie à l'usine complète qu'elle soit nouvelle ou régénérée.",
-      "ml-auto" : "Automatisme",
+      ".ml-auto" : "Automatisme",
       ".ml-t1" : "Nous offrons une diversité de produits à nos clients",
       ".ml-only" : "Seulement quand une bonne idée rencontre les bonnes pratiques qu'elle devient une excellent idée",
       ".ml-innov": "L'innovation est notre devoir, obtenu jour après jour, en améliorant constamment le niveau de qualité de nos projets. Des solutions personnalisées basées sur la recherche et le développement élevé avec les principales universités européennes. Bien sûr, si vous pouvez le penser, vous pouvez le faire!",
       ".ml-auto1" : "L'automatisation est notre travail comme toujours, nous avons créé des milliers d'installations dans différents domaines. Nous sommes à votre disposition pour fournir des systèmes spéciaux pour des applications spéciales.",
-      ".ml-hundreds" : "Des centaines de cellules robotiques pour manipuler, palettiser, travailler, souder, sont notre référence, en appliquant les marques les plus prestigieuses de robot.",
       ".ml-water" : "Traitement de l'eau",
       ".ml-water1" : "Hydrofloat est le système innovant pour le traitement des eaux usées urbaines avec des performances absolument supérieures seul peut répondre à toutes les normes européennes pour les installations jusqu'à 2.000 AE.",
-      "ml-adv" : " Avantages",
+      ".ml-adv" : " Avantages",
       ".ml-adv1" : "-reduction de l'espace 80%",
       ".ml-adv2" : "-¨Coûts annuels bas",
       ".ml-adv3" : "-Réalisation courte (3 mois)",
@@ -80,10 +76,7 @@
       ".ml-cont" : "Pour plus d'information n'hésitez pas de nous contacter.",
       ".ml-form" :" Formulaire de Contact",
       ".ml-name" : "Nom",
-      ".ml-reason" : "Sujet de message",
-      ".ml-selling" : "Vente",
-      ".ml-client" : "Devenir Client",
-      ".ml-other" : "Autre"
+      ".ml-reason" : "Sujet de message"
     }
   }
 }
