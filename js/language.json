@@ -39,10 +39,14 @@
       ".ml-cont" : "For more informations please don't hesitate to contact us.",
       ".ml-form" : "Contact Form",
       ".ml-name" : "Name",
-      ".ml-reason" : "Contact Reason"
+      ".ml-reason" : "Contact Reason",
+      ".ml-pyro1" : "Pyrolysis is a thermochemical process of decomposition of organic materials, in the absence of oxygen.",
+      ".ml-pyro2" : "This process occurs by providing energy, mostly heat, to the material to be treated, in order to decompose into simpler compounds, a lower molecular weight and elemental carbon; more specifically to produce a gaseous fuel, carbon monoxide, hydrogen and minimally by 2-3% from light hydrocarbons such as methane. Alchemists were the first to develop it, today it is linked to important applications, especially in the petrochemical industry.",
+      ".ml-pyro3" : "Among the main pyrolytic processes exploited on a large scale are relevant industrial cracking and thermal treatment of waste."
+
     },
     "fr": {
-      ".ml-Burning_Passion_for_the_Sustainable_Innovation": "Hello 'est genial",
+      ".ml-Burning_Passion_for_the_Sustainable_Innovation": "Passion brûlante pour l'innovation durable",
       ".ml-home": "Acceuil",
       ".ml-who": "Qui sommes nous?",
       ".ml-gallery":"Galerie",
@@ -76,7 +80,10 @@
       ".ml-cont" : "Pour plus d'information n'hésitez pas de nous contacter.",
       ".ml-form" :" Formulaire de Contact",
       ".ml-name" : "Nom",
-      ".ml-reason" : "Sujet de message"
+      ".ml-reason" : "Sujet de message",
+      ".ml-pyro1" : "La pyrolyse est un procédé thermochimique de la décomposition des matières organiques, en l'absence d'oxygène",
+      ".ml-pyro2" : "Ce processus se produit en fournissant de l'énergie, la plupart du temps la chaleur, à la matière à traiter, afin de décomposer en composés plus simples, d'un faible poids moléculaire et du carbone élémentaire; plus spécifiquement pour produire un combustible gazeux, du monoxyde de carbone, l'hydrogène et le moins de 2-3% d'hydrocarbures légers tels que le méthane. Les alchimistes ont été les premiers à le développer, aujourd'hui est liée à des applications importantes, en particulier dans l'industrie pétrochimique.",
+      ".ml-pyro3" : "Parmi les principaux processus pyrolytiques exploités à grande échelle sont le craquage industriel concerné et le traitement thermique des déchets."
     }
   }
 }
